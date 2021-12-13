@@ -70,7 +70,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Indicators of measurement error
   - Data variability
   - Data quantity
-- Derive proxy features
+- Derive proxy features for these indicators
   - Mean variance in bought products
   - Mean variance in purchases
   - \# unique purchases
